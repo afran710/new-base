@@ -9,7 +9,7 @@ class Dog:
     def Bark(self):
         print(self.name,'says woof')
 
-dog1=Dog('raju','beagle')
+dog1=Dog('david','beagle')
 dog2=Dog('lucy',"pitbull")
 
 dog1.Bark()
